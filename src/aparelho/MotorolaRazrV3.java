@@ -1,7 +1,8 @@
 package aparelho;
 
 public class MotorolaRazrV3 implements AparelhoEletronico{
-    public void ligar() {
+    public void ligar(String numero) {
+        System.out.println(numero);
         System.out.println("Ligando pelo motorola Razr");
     }
 
