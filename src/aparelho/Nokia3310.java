@@ -1,7 +1,7 @@
 package aparelho;
 
 public class Nokia3310 implements AparelhoEletronico{
-    public void ligar() {
+    public void ligar(String numero) {
         System.out.println("Ligando pelo Nokia 3310");
     }
 

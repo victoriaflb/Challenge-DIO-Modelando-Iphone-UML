@@ -29,7 +29,6 @@ public  class Usuario {
         Walkman walkman = new Walkman();
         Discman discman = new Discman();
 
-        System.out.println("IPHONE");
 
         // Escolher a funcionalidade do Iphone
         System.out.println("*---------------------* Bem-vinde ao Iphone © 2024 *---------------------*\n" +
