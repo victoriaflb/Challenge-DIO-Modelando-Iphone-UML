@@ -194,7 +194,7 @@ public  class Usuario {
                     break;
             }
            break;
-        } while (opcao != 4);
+        } while (opcao != 3);
 
         scanner.close();
 
