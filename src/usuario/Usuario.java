@@ -13,6 +13,16 @@ import reprodutor.ReprodutorMusical;
 import reprodutor.Walkman;
 
 public  class Usuario {
+    /**
+     * <h1>Modelagem e Diagramação de um Componente iPhone</h1>
+     * <p>Neste desafio, você será responsável por modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.</p>
+     *
+     * @author victoriaflb
+     * @since 06/07/2024
+     * @version 2024.2
+     *
+     *
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
